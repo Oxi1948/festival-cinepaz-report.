@@ -1,0 +1,1 @@
+// FULL component code goes here (trimmed for simplicity)
