@@ -1,0 +1,20 @@
+{
+  "name": "festival-cinepaz-report",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "^2.5.0",
+    "lucide-react": "^0.273.0",
+    "tailwindcss": "^3.3.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21"
+  }
+}
